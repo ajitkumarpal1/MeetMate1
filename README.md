@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Before implementing
 ## Before implementing project please set up this api and database [MeetMate API Link](https://github.com/ajitkumarpal1/meetmatApi)
 # Notes About project flow
-Any kind of survey interactions Only commuting through show bishtu files
+Any kind of survey interactions (HTTP request) Only commuting through below two files
 #### src/app/common.service.ts & src/app/common.alldata.ts
 
 ## Development server
