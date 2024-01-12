@@ -1,6 +1,9 @@
 # Reachingbigness
-### [Link](https://github-k9d4ku.stackblitz.io)
+### [live Link](https://github-k9d4ku.stackblitz.io) you have to setap Believe API's and database locally
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+
+# Before implementing
+## Before implementing project please set up this api and database [MeetMate API Link](https://github.com/ajitkumarpal1/meetmatApi)
 
 ## Development server
 
